@@ -73,9 +73,9 @@ jupyter notebook
 
 [Download IRIS.csv](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/IRIS.csv)
 
-[Download movies.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/movies.txt)
-[Download ratings.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/ratings.txt)
-[Download users.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/users.txt)
+- [Download movies.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/movies.txt)
+- [Download ratings.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/ratings.txt)
+- [Download users.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/users.txt)
 
 ## Usage
 
