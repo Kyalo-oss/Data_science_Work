@@ -29,20 +29,20 @@ Usage
 ## **Getting started**
 
 ## **Prerequistites**
-Programming Languages: **Python** or **R**, used python in this case.
+- **Programming Languages: **Python** or **R**, used python in this case.**
 
-Development Environment:  Jupyter Notebook, Anaconda, or RStudio.
+- **Development Environment:  Jupyter Notebook, Anaconda, or RStudio.**
 
-Version Control:  You'll be using GitHub
+- **Version Control:  You'll be using GitHub**
 
-Python Libraries: For Python-based analysis, ensure you have the following libraries installed:
+- **Python Libraries: For Python-based analysis, ensure you have the following libraries installed:**
 
-NumPy
-Pandas
-Matplotlib
-Seaborn
-Scikit-learn
-Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Scikit-learn
+- Jupyter Notebook
 
 ## Installation
 
@@ -54,27 +54,29 @@ git clone https://github.com/Kyalo-oss/Data_science_Work
 
 ### 2. Create a Virtual Environment 
 
-cd your-data-science-project
+- cd your-data-science-project
 
-conda create --name data-project-env python=3.8
+- conda create --name data-project-env python=3.8
 
 ### 3. Activate the Environment
 
-conda activate data-project-env
+- conda activate data-project-env
 
 ### 4. Launch Jupyter Notebook
 
-jupyter notebook
+- jupyter notebook
 
 ### 5. Download the Datasets
 
 
-[Download tested.csv](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/tested.csv)
+- [Download tested.csv](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/tested.csv)
 
-[Download IRIS.csv](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/IRIS.csv)
+- [Download IRIS.csv](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/IRIS.csv)
 
 - [Download movies.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/movies.txt)
+  
 - [Download ratings.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/ratings.txt)
+  
 - [Download users.txt](https://raw.githubusercontent.com/kyalo-oss/Data_science_work/master/users.txt)
 
 ## Usage
@@ -84,6 +86,7 @@ This section provides guidance on how to use and interact with the data science 
 ### Titanic Dataset
 
 Open titanic-solution.ipynb
+
 ### Iris Flower Dataset
 
 Open iris-flower-solution.ipynb
