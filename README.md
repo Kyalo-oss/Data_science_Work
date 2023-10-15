@@ -37,12 +37,12 @@ Usage
 
 - **Python Libraries: For Python-based analysis, ensure you have the following libraries installed:**
 
-          - NumPy
-          - Pandas
-          - Matplotlib
-          - Seaborn
-          - Scikit-learn
-          - Jupyter Notebook
+          NumPy
+          Pandas
+          Matplotlib
+          Seaborn
+          Scikit-learn
+          Jupyter Notebook
 
 ## Installation
 
