@@ -54,17 +54,17 @@ git clone https://github.com/Kyalo-oss/Data_science_Work
 
 ### 2. Create a Virtual Environment 
 
-- cd your-data-science-project
+ cd your-data-science-project
 
-- conda create --name data-project-env python=3.8
+conda create --name data-project-env python=3.8
 
 ### 3. Activate the Environment
 
-- conda activate data-project-env
+ conda activate data-project-env
 
 ### 4. Launch Jupyter Notebook
 
-- jupyter notebook
+ jupyter notebook
 
 ### 5. Download the Datasets
 
