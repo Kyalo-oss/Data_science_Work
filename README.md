@@ -97,7 +97,8 @@ Open movielens-solution.ipynb
 
 Ensure you have installed the required libraries and set up the project environment as explained in the [Installation](#installation) section. You can follow the provided Jupyter Notebook files for a step-by-step walkthrough of the data analysis and modeling tasks. Modify, experiment, and adapt the code as needed for your specific analysis and exploration.
 
-Feel free to reach out for any questions or issues via GitHub Issues or Kyalosteve642@gmail.com.
+Feel free to reach out for any questions or issues via Kyalosteve642@gmail.com.
+
 
 
 
